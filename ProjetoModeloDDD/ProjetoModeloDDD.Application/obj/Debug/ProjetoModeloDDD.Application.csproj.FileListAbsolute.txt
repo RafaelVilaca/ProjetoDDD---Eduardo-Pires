@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
