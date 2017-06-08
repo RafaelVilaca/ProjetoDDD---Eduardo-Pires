@@ -1,4 +1,6 @@
-﻿using System.Data.Entity.ModelConfiguration;
+﻿
+
+using System.Data.Entity.ModelConfiguration;
 using ProjetoModeloDDD.Domain.Entities;
 
 namespace ProjetoModeloDDD.Infra.Data.EntityConfig
@@ -19,6 +21,7 @@ namespace ProjetoModeloDDD.Infra.Data.EntityConfig
 
             Property(c => c.Email)
                 .IsRequired();
+
         }
     }
 }

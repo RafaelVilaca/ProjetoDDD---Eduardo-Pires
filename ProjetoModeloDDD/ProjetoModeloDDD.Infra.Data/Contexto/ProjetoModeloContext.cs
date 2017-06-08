@@ -12,7 +12,7 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
         public ProjetoModeloContext()
             : base("ProjetoModeloDDD")
         {
-
+            
         }
 
         public DbSet<Cliente> Clientes { get; set; }
@@ -20,13 +20,13 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();//Tira o plural dos CREATES das tabelas
+            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
 
             modelBuilder.Properties()
                 .Where(p => p.Name == p.ReflectedType.Name + "Id")
-                .Configure(p => p.IsKey());//Falando q tdo nome com Id no final, será primary key
+                .Configure(p => p.IsKey());
 
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasColumnType("varchar"));
@@ -43,10 +43,14 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
             foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
             {
                 if (entry.State == EntityState.Added)
+                {
                     entry.Property("DataCadastro").CurrentValue = DateTime.Now;
+                }
 
                 if (entry.State == EntityState.Modified)
+                {
                     entry.Property("DataCadastro").IsModified = false;
+                }
             }
             return base.SaveChanges();
         }

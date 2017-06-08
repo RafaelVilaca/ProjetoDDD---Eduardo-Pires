@@ -1,64 +1,44 @@
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ApplicationInsights.config
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\csc.exe
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\vbc.exe
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Web.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.ApplicationInsights.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.Web.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.ApplicationInsights.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
-C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\ProjetoDDD - Eduardo Pires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+C:\Users\usuario\Desktop\Nova pasta\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
