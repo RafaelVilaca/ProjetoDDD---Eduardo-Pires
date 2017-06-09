@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Web.Http.Cors;
 using System.Web.Mvc;
 using AutoMapper;
 using ProjetoModeloDDD.Application.Interface;
@@ -7,6 +8,8 @@ using ProjetoModeloDDD.MVC.ViewModels;
 
 namespace ProjetoModeloDDD.MVC.Controllers
 {
+    [EnableCors(origins: "", headers: "*", methods: "*")]
+    [RoutePrefix("api/v1/public")]
     public class ClientesController : Controller
     {
         private readonly IClienteAppService _clienteApp;
@@ -23,6 +26,7 @@ namespace ProjetoModeloDDD.MVC.Controllers
             return View(clienteViewModel);
         }
 
+        [Route("clientes/Especiais")]
         public ActionResult Especiais()
         {
             var clienteViewModel = Mapper.Map<IEnumerable<Cliente>, IEnumerable<ClienteViewModel>>(_clienteApp.ObterClientesEspeciais());
@@ -31,6 +35,7 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         // GET: Clientes/Details/5
+        [Route("cliente/{id}")]
         public ActionResult Details(int id)
         {
             var cliente = _clienteApp.GetById(id);
@@ -40,6 +45,7 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         // GET: Clientes/Create
+        [Route("cliente/Create")]
         public ActionResult Create()
         {
             return View();
@@ -47,6 +53,7 @@ namespace ProjetoModeloDDD.MVC.Controllers
 
         // POST: Clientes/Create
         [HttpPost]
+        [Route("clientes")]
         [ValidateAntiForgeryToken]
         public ActionResult Create(ClienteViewModel cliente)
         {
@@ -62,6 +69,8 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         // GET: Clientes/Edit/5
+        [HttpPatch]
+        [Route("clientes")]
         public ActionResult Edit(int id)
         {
             var cliente = _clienteApp.GetById(id);
@@ -71,7 +80,8 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         // POST: Clientes/Edit/5
-        [HttpPost]
+        [HttpPut]
+        [Route("clientes")]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(ClienteViewModel cliente)
         {
@@ -87,6 +97,8 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         // GET: Clientes/Delete/5
+        [HttpDelete]
+        [Route("clientes")]
         public ActionResult Delete(int id)
         {
             var cliente = _clienteApp.GetById(id);

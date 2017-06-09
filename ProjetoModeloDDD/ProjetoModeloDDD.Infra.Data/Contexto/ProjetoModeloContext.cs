@@ -12,7 +12,8 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
         public ProjetoModeloContext()
             : base("ProjetoModeloDDD")
         {
-            
+            Configuration.LazyLoadingEnabled = false;
+            Configuration.ProxyCreationEnabled = false;
         }
 
         public DbSet<Cliente> Clientes { get; set; }
