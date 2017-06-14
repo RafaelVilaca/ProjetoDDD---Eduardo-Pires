@@ -1,25 +1,73 @@
-﻿
-
-using System.Collections.Generic;
+﻿using System;
+using System.Net.Http;
+using System.Net.Http.Formatting;
+using Newtonsoft.Json;
 using ProjetoModeloDDD.Application.Interface;
 using ProjetoModeloDDD.Domain.Entities;
-using ProjetoModeloDDD.Domain.Interfaces.Services;
 
 namespace ProjetoModeloDDD.Application
 {
-    public class ClienteAppService : AppServiceBase<Cliente>, IClienteAppService
+    public class ClienteAppService : IClienteAppService, IDisposable
     {
-        private readonly IClienteService _clienteService;
+        private readonly HttpClient _httpClient;
 
-        public ClienteAppService(IClienteService clienteService)
-            : base(clienteService)
+        public ClienteAppService()
         {
-            _clienteService = clienteService;
+            _httpClient = new HttpClient();
         }
 
-        public IEnumerable<Cliente> ObterClientesEspeciais()
+        public HttpResponseMessage Post(Cliente cliente)
         {
-            return _clienteService.ObterClientesEspeciais(_clienteService.GetAll());
+            return _httpClient.PostAsync("http://localhost:63982/api/cliente/Post", cliente, JsonMediaTypeFormatter).Result;
         }
+        
+        public HttpResponseMessage GetById(int id)
+        {
+            return _httpClient.GetAsync("http://localhost:63982/api/cliente?id=" + id).Result;
+        }
+
+        public HttpResponseMessage GetAll()
+        {
+            return _httpClient.GetAsync("http://localhost:63982/api/clientes").Result;
+        }
+
+        public HttpResponseMessage GetAllByName(string nome)
+        {
+            return _httpClient.GetAsync("http://localhost:63982/api/clientes?like=%" + nome+"%").Result;
+        }
+
+        public HttpResponseMessage Put(Cliente cliente)
+        {
+            return _httpClient.PutAsync("http://localhost:63982/api/cliente/Put", cliente, JsonMediaTypeFormatter).Result;
+        }
+
+        public HttpResponseMessage Delete(Cliente cliente)
+        {
+            return _httpClient.DeleteAsync("http://localhost:63982/api/cliente/Delete").Result;
+        }
+
+        public HttpResponseMessage SpecialClients()
+        {
+            return _httpClient.GetAsync("http://localhost:63982/api/clientes/specialClients").Result;
+        }
+
+        void IClienteAppService.Dispose()
+        {
+            _httpClient.Dispose();
+        }
+
+        void IDisposable.Dispose()
+        {
+            _httpClient.Dispose();
+        }
+
+        private static readonly JsonMediaTypeFormatter JsonMediaTypeFormatter = new JsonMediaTypeFormatter
+        {
+            SerializerSettings = new JsonSerializerSettings
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
+                NullValueHandling = NullValueHandling.Include
+            }
+        };
     }
 }

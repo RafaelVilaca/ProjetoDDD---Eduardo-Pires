@@ -13,6 +13,17 @@ namespace ProjetoModeloDDD.WebApi
             // Web API configuration and services
             config.Formatters.Clear();
             config.Formatters.Add(new JsonMediaTypeFormatter());
+            // Web API configuration and services
+            //var formatters = GlobalConfiguration.Configuration.Formatters;//rest, setando json como formato principal
+            //var jsonFormatter = formatters.JsonFormatter;
+            //var settings = jsonFormatter.SerializerSettings;//serializando formato json
+
+            //jsonFormatter.SerializerSettings.PreserveReferencesHandling =
+            //    Newtonsoft.Json.PreserveReferencesHandling.None;
+            //config.Formatters.Remove(config.Formatters.XmlFormatter);//removendo formato xml
+            //settings.Formatting = Formatting.Indented;//indentando
+            //settings.ContractResolver = new CamelCasePropertyNamesContractResolver();//propriedades em minusculo
+            //config.EnableCors();//Install-Package Microsoft.AspNet.WebApi.Cors
 
             // Web API routes
             config.MapHttpAttributeRoutes();

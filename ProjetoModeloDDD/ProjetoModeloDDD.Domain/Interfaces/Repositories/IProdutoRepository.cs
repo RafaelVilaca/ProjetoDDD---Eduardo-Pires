@@ -3,8 +3,13 @@ using ProjetoModeloDDD.Domain.Entities;
 
 namespace ProjetoModeloDDD.Domain.Interfaces.Repositories
 {
-    public interface IProdutoRepository : IRepositoryBase<Produto>
+    public interface IProdutoRepository
     {
-        IEnumerable<Produto> BuscarPorNome(string nome);
+        void Post(Produto produto);
+        Produto GetById(int id);
+        IEnumerable<Produto> GetAll();
+        void Put(Produto obj);
+        void Delete(Produto obj);
+        IEnumerable<Produto> GetAllByName(string nome);
     }
 }
